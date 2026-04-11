@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682678687129",
+    "project_id": "order-take-c9651",
+    "storage_bucket": "order-take-c9651.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682678687129:android:bc0a9b3179ca16db5e6f08",
+        "android_client_info": {
+          "package_name": "com.example.ourder_take_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC_fWmiePUpfgI7luh6G_bPyVY29HQ82M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
